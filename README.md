@@ -21,7 +21,7 @@ code/
     nadaraya_watson.py   #   НВ: фикс./перем. окно, LOO
     lowess.py            #   робастное перевзвешивание
     datasets.py          #   реальные датасеты (Diabetes, California)
-    plotting.py
+    plotting.py.         #   настройка matplotlib и сохранение фигур/таблиц
     run.py               #   <- запуск: все эксперименты
 report/
   Кейс_4_отчёт.pdf
