@@ -24,11 +24,6 @@ code/
     plotting.py
     run.py               #   <- запуск: все эксперименты
 report/
-  Кейс_4_отчёт.tex / .pdf
-  Кейс_6_отчёт.tex / .pdf
-  figures/               # графики (PDF) и таблицы (LaTeX) - генерируются из code/
-  fonts/                 # шрифт CMU Serif
-  build.ps1              # пересборка обоих PDF
-tools/
-  tectonic.exe           # LaTeX-движок (XeTeX)
+  Кейс_4_отчёт.pdf
+  Кейс_6_отчёт.pdf
 ```
